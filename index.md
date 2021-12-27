@@ -1,11 +1,4 @@
-# markdown test
-- hoge
-- hoge2
-- hoge3
-
-```
-var hoge = 999;
-```
-
-## attention
-normal texts.
+# Code for Okutama 準備室
+## 基本情報
+- 設立：２０２２年１月１日
+- 住所：東京都西多摩郡奥多摩町留浦１２３７用務員室
