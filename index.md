@@ -17,5 +17,8 @@ Code for Okutamaは奥多摩エリア在住の情報通信技術者を中心と�
 - 設立：２０２２年１月１日
 - 住所：東京都西多摩郡奥多摩町留浦１２３７
 
+## お問い合わせ
+- [ContactForm（お問い合わせフォーム）](https://docs.google.com/forms/d/e/1FAIpQLSc6VYzbGQHDt16gFmeK7rctmjfijtZQaCXdK36yW_CfN9T66w/viewform?usp=sf_link)
+
 ## Link
 - [Tools](./tools.md)
