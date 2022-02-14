@@ -1,7 +1,7 @@
 # Code for Okutama
 
 ```
-#コードフォー奥多摩 #コードフォーオクタマ #コード・フォー・オクタマ #CodeForOkutama #Code4Okutama
+#コードフォー奥多摩 #コードフォーオクタマ #コード・フォー・オクタマ #CodeForOkutama #CFO
 ```
 
 ## 概要
