@@ -29,7 +29,7 @@ Code for Okutamaは奥多摩エリア在住の情報通信技術者を中心と�
 - 町内でのプログラミング教室の実施
 
 ### 完了
-- [Global Game Jam 2022（奥多摩会場）のイベント企画・運営(20220306)](./projects/ggj2022.md)
+- [Global Game Jam 2022（奥多摩会場）のイベント企画・運営(20220306)](https://docs.google.com/document/d/e/2PACX-1vQSEMSJ2f_UAotBdHg8QAFAGyzixZ7ztgHAk1B-LfXsVKrgHw8fHBUjLSyqaWv39vBhzq9Wa8TiMN5a/pub)
 - 奥多摩町定住促進サポート事業支援金への申請
 
 ## メディア掲載
