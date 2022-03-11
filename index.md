@@ -4,6 +4,8 @@
 #コードフォー奥多摩 #コードフォーオクタマ #コード・フォー・オクタマ #CodeForOkutama #CFO
 ```
 
+- [お問い合わせ:ContactForm](https://docs.google.com/forms/d/e/1FAIpQLSc6VYzbGQHDt16gFmeK7rctmjfijtZQaCXdK36yW_CfN9T66w/viewform?usp=sf_link)
+
 ## 概要
 Code for Okutamaは奥多摩エリア在住の情報通信技術者を中心としたデジタル・クリエーターのコミュニティです。
 旧小河内小を拠点に奥多摩エリアでの文化振興を目的にして活動します。
@@ -26,7 +28,3 @@ Code for Okutamaは奥多摩エリア在住の情報通信技術者を中心と�
 
 ### 完了
 - [Global Game Jam 2022（奥多摩会場）のイベント企画・運営](./projects/ggj2022.md)
-
----
-
-- [お問い合わせ:ContactForm](https://docs.google.com/forms/d/e/1FAIpQLSc6VYzbGQHDt16gFmeK7rctmjfijtZQaCXdK36yW_CfN9T66w/viewform?usp=sf_link)
