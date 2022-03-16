@@ -24,11 +24,11 @@ Code for Okutamaは奥多摩エリア在住の情報通信技術者を中心と�
 - 日本語学習アプリケーションの開発
 - ロゴおよび名刺の作成
 - 児童主体の小学校ブログ運営
-- CodeForOkutamaの会員制度の整備
 - 議会議事録のテキストマイニング
 
 ### 実施中:doing
 - [町内でのプログラミング教室の実施](https://docs.google.com/document/d/e/2PACX-1vTaAqylTSku7kE3QnwSq3tGzZWP3xNqok0NcIZT6WmhvL5kvd-oNQzabomgxfaleO71SRohhwbE6LJF/pub)
+- [プログラミング講座（幾何学模様入門）](https://docs.google.com/document/d/e/2PACX-1vRojxAT6JDTw631HOcxScRTXgI2PZFSmVcits_4-5I_HDxEEDPauIDOSLJr302gv7YqE6nSieUYc_PB/pub)
 
 ### 完了:done
 - [Global Game Jam 2022（奥多摩会場）のイベント企画・運営(20220306)](https://docs.google.com/document/d/e/2PACX-1vQSEMSJ2f_UAotBdHg8QAFAGyzixZ7ztgHAk1B-LfXsVKrgHw8fHBUjLSyqaWv39vBhzq9Wa8TiMN5a/pub)
