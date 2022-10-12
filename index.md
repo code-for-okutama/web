@@ -1,12 +1,14 @@
+<img width="512" alt="c4oktm_logo" src="https://user-images.githubusercontent.com/4956743/195421966-923c74f4-bc42-44bb-929b-b8485ac2bd81.png">
+
 # Code for Okutama
 
 ```
-#コードフォー奥多摩 #コードフォーオクタマ #コード・フォー・オクタマ #CodeForOkutama #CFO
+#コード・フォー・オクタマ #コードフォー奥多摩 #コードフォーオクタマ #CodeForOkutama #c4oktm
 ```
 
 ## 概要
-Code for Okutamaは奥多摩エリア在住の情報通信技術者を中心としたデジタル・クリエーターのコミュニティです。
-旧小河内小を拠点に奥多摩エリアでの文化振興を目的にして活動します。
+
+コードフォーオクタマは、デジタル技術を奥多摩エリア内で活用し、様々な文化振興をサポートすることを目的として２０２２年に設立しました。クリエーターの交流イベントの企画・運営や、プログラミング教育の普及活動、市民活動のデジタル面からの支援などを非営利で行っています。
 
 新聞等、メディアへの掲載については[こちら](https://docs.google.com/document/d/e/2PACX-1vS_0IwhqoBsMHo6c6tVMAyX8Sig_-agO4q7EoZFulFCGcEHeK2MfEbo20D1YadJdU_b5rmiEwOS3jHM/pub) を御覧ください。
 
@@ -34,6 +36,7 @@ Code for Okutamaは奥多摩エリア在住の情報通信技術者を中心と�
 - [Global Game Jam 2022（奥多摩会場）のイベント企画・運営(20220306)](https://docs.google.com/document/d/e/2PACX-1vQSEMSJ2f_UAotBdHg8QAFAGyzixZ7ztgHAk1B-LfXsVKrgHw8fHBUjLSyqaWv39vBhzq9Wa8TiMN5a/pub)
 - [奥多摩町定住促進サポート事業支援金の申請(2022/2/9)](https://docs.google.com/document/d/e/2PACX-1vQ0pwkbC1rH3bojE7kUto7UuhuVV5LsaDvREnEjxjScMS78RhPkcj8-T63Tywgpe9H1EwkWNNH8im8z/pub)
 
----
+## お問い合わせ
+**c4okutama/#/gmail.com**
 
-[お問い合わせ:Contact](https://docs.google.com/forms/d/e/1FAIpQLSc6VYzbGQHDt16gFmeK7rctmjfijtZQaCXdK36yW_CfN9T66w/viewform?usp=sf_link)
+/#/を@に変換してご送信ください。
