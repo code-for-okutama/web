@@ -2,7 +2,7 @@
 
 ## 概要
 
-[一般財団法人日本教科別能力検定協会](http://kyoken.or.jp/index.html)の計算能力検定の問題集です。サーバーが毎日新しい問題を自動生成します。
+毎晩、新しい計算問題を生成するシステムです。
 
 特定のURLをクリックするとPDFがダウンロードできます。プリントアウトして、毎日の練習問題としてご活用ください。
 
@@ -19,6 +19,17 @@
 - １枚に複数の種類の問題を含められます（復習問題などで使用中）
 
 ## PDFのダウンロード（毎日更新）
+
+### 九九の練習（小学校２年）
+
+- [2と3の段の九九](https://gift10.net/pdf/?t=daily_cal_19)
+- [4と5の段の九九](https://gift10.net/pdf/?t=daily_cal_20)
+- [6と7の段の九九](https://gift10.net/pdf/?t=daily_cal_21)
+- [8と9の段の九九](https://gift10.net/pdf/?t=daily_cal_22)
+
+### １１級（小学校１年）
+
+[一般財団法人日本教科別能力検定協会](http://kyoken.or.jp/index.html)の計算能力検定の問題集です。
 
 - [足し算	10まで](https://gift10.net/pdf/?t=daily_cal_0)
 - [足し算	20まで（10といくつ）](https://gift10.net/pdf/?t=daily_cal_1)
