@@ -25,6 +25,7 @@
 - [4と5の段の九九](https://gift10.net/pdf/?t=daily_cal_20)
 - [6と7の段の九九](https://gift10.net/pdf/?t=daily_cal_21)
 - [8と9の段の九九](https://gift10.net/pdf/?t=daily_cal_22)
+- [ランダム九九(2以上)](https://gift10.net/pdf/?t=daily_cal_23)
 
 ### １１級（小学校１年）
 
