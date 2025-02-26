@@ -19,6 +19,7 @@
 - オクタマトリカルタのアプリ開発と保守
 
 ### 完了
+- [Global Game Jam 2025（奥多摩会場）のイベント企画・運営(20250124)](https://docs.google.com/document/d/e/2PACX-1vSli9HHJPQQx0OTzGuYoR5WvuuAxnySRqbR_CJZFTJbWoQOm0D0oF-nx1ukVoLjvwHwW-SajwaMKY41/pub)
 - [Global Game Jam 2024（奥多摩会場）のイベント企画・運営(20240126)](https://docs.google.com/document/d/e/2PACX-1vRzazKJGTswcpvUu9pU6fS8YA3eXthqTk8-ASbLGdL3ToMNi1NOfVb5mT4-TnE5q2Y_iXjUvrVC6qTf/pub)
 - [Global Game Jam 2023（奥多摩会場）のイベント企画・運営(20230205)](https://docs.google.com/document/d/e/2PACX-1vQgyGYIZiz-39qZ7Qeoz044M9RTehVg6G7a25iy_3JJ3BM0JOlOKyVP4SRhpdUBlfjH8WcZ1fXsjK-d/pub)
 - パブリックコメント支援ツールの開発(20221101)
